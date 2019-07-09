@@ -1,0 +1,40 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: Ahmad khan
+ * Date: 7/9/2019
+ * Time: 2:35 PM
+ */
+var a=2;
+setTimeout(function(){
+    a=5
+}, 3000);
+
+setTimeout(function(){
+    alert(a)
+}, 5000);
+
+
+
+
+
+
+Q:How do you check if a string contains only digits?
+    Function checkstringContainsDigits($data){
+
+}
+
+    Q:How do you remove duplicates from an array in place?
+    Function remove_duplicates($data){
+
+}
+
+    Q: Rotate an array of n elements to the right by k steps.  For example, with n = 7 and k = 3, the array [1,2,3,4,5,6,7] is rotated to [5,6,7,1,2,3,4]. How many different ways do you know to solve this problem?
+    Function rotate($data, $length, $steps){
+    }
+
+    Q: Write a method which will remove any given character from a String?
+    function removeStr($string, $toRemove)
+    {
+
+    }
